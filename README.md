@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harry
-- 👀 I’m interested in Back End Development, Project Management and Product Design
+- 👀 I’m interested in Back End Development, Project Management
 - 🌱 I’m currently learning Phyton, Flask 
 - 💞️ I’m looking to collaborate on Open Source Projects involving Backend development with flask framework
 - 📫 You can reach me via:

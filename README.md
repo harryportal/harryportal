@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Harry<br>👀 I’m interested in Back End Development(Flask and Django), Software Engineering, and Project Management<br>🌱 I’m currently learning Node JS Backend Development<br>💞️ I’m looking to collaborate on Open Source Projects in Software Engineering<br>📫 You can reach me via Email: dammykuye@gmail.com
+👋 Hi, I’m @Harry<br>👀 I’m interested in Back End Development with NodeJS and Django, DevOps with AWS<br>🌱 I’m currently learning Node JS Backend Development<br>💞️ I’m looking to collaborate on Open Source Projects in Software Engineering<br>📫 You can reach me via Email: dammykuye@gmail.com
 
 
 ## 🌐 Socials:

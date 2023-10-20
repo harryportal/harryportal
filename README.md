@@ -1,12 +1,14 @@
-# 💫 About Me:
-👋 Hi, I’m @Harry<br>👀 I’m interested in Back End Development with NodeJS and Django, DevOps with AWS<br>🌱 I’m currently learning Node JS Backend Development<br>💞️ I’m looking to collaborate on Open Source Projects in Software Engineering<br>📫 You can reach me via Email: dammykuye@gmail.com
+### Hi there , I'm Harry👋
+I'm Kuye Damilola Harry a Software Engineer with a strong foundation in Backend Engineering and anything server side👉🏾👈🏾.
 
+- 🌱 I’m currently learning GraphQl, AWS and C++
+- 👯 I’m looking to collaborate on anything cool
+- 💬 Ask me about Backend technologies and Minor Scales
+- 📫 How to reach me: [send me a mail](mailto:dammykuye@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 🥴
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dammykuye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harry_py) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harryportal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/harryportal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harryportal&show_icons=true&theme=merko&count_private=true" alt="My github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryportal&theme=merko&layout=compact" alt="My github top languages" />
+</a>

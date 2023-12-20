@@ -1,5 +1,5 @@
 ### Hi there , I'm Harry👋
-I'm Kuye Damilola Harry a Software Engineer with a strong foundation in Backend Engineering and anything server side👉🏾👈🏾.
+I'm Kuye Damilola Harry a Software Engineer with a strong foundation in Backend Engineering(NodeJS, Flask, Django) and anything server side👉🏾👈🏾.
 
 - 🌱 I’m currently learning GraphQl, AWS and C++
 - 👯 I’m looking to collaborate on anything cool

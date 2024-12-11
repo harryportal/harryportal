@@ -1,5 +1,5 @@
 ### Hi there , I'm Harry👋
-I'm Kuye Damilola Harry a Software Engineer 2 years of experience with a strong foundation in Backend Engineering and Systems Programming👉🏾👈🏾.
+I'm Kuye Damilola Harry a Software Engineer with 2 years of experience and a strong foundation in Backend Engineering and Systems Programming👉🏾👈🏾.
 
 - 🌱 I’m currently trying to master C and C++
 - 📫 How to reach me: [send me a mail](mailto:dammykuye@gmail.com)

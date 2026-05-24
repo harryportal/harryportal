@@ -1,9 +1,6 @@
-### Hi there , I'm Harry👋
-I'm Kuye Damilola Harry a Software Engineer with 2 years of experience and a strong foundation in Backend Engineering and Systems Programming👉🏾👈🏾.
+### Hi there 👋
+I'm Dammy and I currently work at Bloomberg in team building the Fixed Income Derivatives electronic trading platform on the Bloomberg terminal.
 
-- 🌱 I’m currently trying to master C and C++
+- Upskilling in different areas( C++, Distributed Systems, Networking, OS, System Design, Pragmatic Engineering, Algorithms, Building low latency trading systems )
 - 📫 How to reach me: [send me a mail](mailto:dammykuye@gmail.com)
 
-<a href="https://github.com/harryportal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryportal&theme=merko&layout=compact" alt="My github top languages" />
-</a>
